@@ -1,0 +1,7 @@
+C:\Users\11toa\Source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe.config
+C:\Users\11toa\Source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe
+C:\Users\11toa\Source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
+C:\Users\11toa\Source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.AssemblyReference.cache
+C:\Users\11toa\Source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\11toa\Source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
+C:\Users\11toa\Source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb

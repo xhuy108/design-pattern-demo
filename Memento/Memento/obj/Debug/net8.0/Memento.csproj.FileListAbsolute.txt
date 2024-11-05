@@ -1,0 +1,14 @@
+/Users/huy.dao/Documents/school/Memento/Memento/bin/Debug/net8.0/Memento
+/Users/huy.dao/Documents/school/Memento/Memento/bin/Debug/net8.0/Memento.deps.json
+/Users/huy.dao/Documents/school/Memento/Memento/bin/Debug/net8.0/Memento.runtimeconfig.json
+/Users/huy.dao/Documents/school/Memento/Memento/bin/Debug/net8.0/Memento.dll
+/Users/huy.dao/Documents/school/Memento/Memento/bin/Debug/net8.0/Memento.pdb
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/Memento.AssemblyInfoInputs.cache
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/Memento.AssemblyInfo.cs
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/Memento.csproj.CoreCompileInputs.cache
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/Memento.dll
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/refint/Memento.dll
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/Memento.pdb
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/Memento.genruntimeconfig.cache
+/Users/huy.dao/Documents/school/Memento/Memento/obj/Debug/net8.0/ref/Memento.dll

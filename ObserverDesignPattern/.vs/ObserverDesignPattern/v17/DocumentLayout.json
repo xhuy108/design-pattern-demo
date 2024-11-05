@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|c:\\users\\11toa\\source\\repos\\observerdesignpattern\\observerdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|solutionrelative:observerdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|c:\\users\\11toa\\source\\repos\\observerdesignpattern\\observerdesignpattern\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|solutionrelative:observerdesignpattern\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|c:\\users\\11toa\\source\\repos\\observerdesignpattern\\observerdesignpattern\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|solutionrelative:observerdesignpattern\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|c:\\users\\11toa\\source\\repos\\observerdesignpattern\\observerdesignpattern\\concreteobserverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|solutionrelative:observerdesignpattern\\concreteobserverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|c:\\users\\11toa\\source\\repos\\observerdesignpattern\\observerdesignpattern\\concreteobservera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|solutionrelative:observerdesignpattern\\concreteobservera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|c:\\users\\11toa\\source\\repos\\observerdesignpattern\\observerdesignpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBC7C93-73EF-4B64-984B-E7403261CDAE}|ObserverDesignPattern\\ObserverDesignPattern.csproj|solutionrelative:observerdesignpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 986,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcreteObserverB.cs",
+              "DocumentMoniker": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\ConcreteObserverB.cs",
+              "RelativeDocumentMoniker": "ObserverDesignPattern\\ConcreteObserverB.cs",
+              "ToolTip": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\ConcreteObserverB.cs",
+              "RelativeToolTip": "ObserverDesignPattern\\ConcreteObserverB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:27:11.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteObserverA.cs",
+              "DocumentMoniker": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\ConcreteObserverA.cs",
+              "RelativeDocumentMoniker": "ObserverDesignPattern\\ConcreteObserverA.cs",
+              "ToolTip": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\ConcreteObserverA.cs",
+              "RelativeToolTip": "ObserverDesignPattern\\ConcreteObserverA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:26:21.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\Subject.cs",
+              "RelativeDocumentMoniker": "ObserverDesignPattern\\Subject.cs",
+              "ToolTip": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\Subject.cs",
+              "RelativeToolTip": "ObserverDesignPattern\\Subject.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:25:45.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\ISubject.cs",
+              "RelativeDocumentMoniker": "ObserverDesignPattern\\ISubject.cs",
+              "ToolTip": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\ISubject.cs",
+              "RelativeToolTip": "ObserverDesignPattern\\ISubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:25:06.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\IObserver.cs",
+              "RelativeDocumentMoniker": "ObserverDesignPattern\\IObserver.cs",
+              "ToolTip": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\IObserver.cs",
+              "RelativeToolTip": "ObserverDesignPattern\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:24:28.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\11toa\\Source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\Program.cs",
+              "RelativeToolTip": "ObserverDesignPattern\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:23:38.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

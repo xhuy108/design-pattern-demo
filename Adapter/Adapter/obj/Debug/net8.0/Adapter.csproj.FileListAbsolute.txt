@@ -1,0 +1,14 @@
+/Users/huy.dao/Documents/school/Adapter/Adapter/bin/Debug/net8.0/Adapter
+/Users/huy.dao/Documents/school/Adapter/Adapter/bin/Debug/net8.0/Adapter.deps.json
+/Users/huy.dao/Documents/school/Adapter/Adapter/bin/Debug/net8.0/Adapter.runtimeconfig.json
+/Users/huy.dao/Documents/school/Adapter/Adapter/bin/Debug/net8.0/Adapter.dll
+/Users/huy.dao/Documents/school/Adapter/Adapter/bin/Debug/net8.0/Adapter.pdb
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfoInputs.cache
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfo.cs
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/Adapter.dll
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/refint/Adapter.dll
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/Adapter.pdb
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/Adapter.genruntimeconfig.cache
+/Users/huy.dao/Documents/school/Adapter/Adapter/obj/Debug/net8.0/ref/Adapter.dll
